@@ -1,5 +1,5 @@
 # Assignments AEA I
-This repository contains my assignments.
+This repository contains my assignments for Applied Economic Analysis 1, part of my MSc Economics.
 
 [Assignment 1](https://github.com/janboone/assignments/blob/master/assignment_1.ipynb)
 
