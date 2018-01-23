@@ -3,7 +3,7 @@ This repository contains my assignments for Applied Economic Analysis 1, part of
 
 
 * Final Assignment
-  [Python Notebook](https://github.com/twanvissers/Assignments-AEA-I/blob/master/AEA_Joost_Twan.ipynb)
-  [HTML Notebook]()
+<p> [Python Notebook](https://github.com/twanvissers/Assignments-AEA-I/blob/master/AEA_Joost_Twan.ipynb)
+<p> [HTML Notebook]()
 
 * [My CV]()
