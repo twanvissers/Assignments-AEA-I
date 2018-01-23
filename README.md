@@ -2,8 +2,8 @@
 This repository contains my assignments for Applied Economic Analysis 1, part of my MSc Economics.
 
 
-* [Assignment 1]()
+* Final Assignment
+  [Python Notebook](https://github.com/twanvissers/Assignments-AEA-I/blob/master/AEA_Joost_Twan.ipynb)
+  [HTML Notebook]()
 
-* [Assignment 2]()
-
-* [My CV](https://github.com/twanvissers/Assignments-AEA-I/blob/master/CV.md)
+* [My CV]()
